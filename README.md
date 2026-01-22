@@ -33,3 +33,15 @@ For screenshots [click here](https://winston-dsouza.github.io/#projects)
 
 *Note The [Foody](https://github.com/winston-dsouza/Online-Food-Ordering-System/tree/master/Foody) folder is Food Ordering App and 
 [FoodyOrder](https://github.com/winston-dsouza/Online-Food-Ordering-System/tree/master/FoodyOrder) folder is order retrieve App code*
+---
+
+## Modified By (For Academic & Placement Use)
+
+Name: Amit Bandivaddar 
+College: University Visvesvaraya College Of Engineering Bengaluru 
+Branch: Computer Science 
+Year: 3rd Year  
+GitHub: https://github.com/Amit_Bandivaddar
+
+Original Author: winston-dsouza
+
